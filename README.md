@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peternroth
-- 👀 I’m interested in TypeScript, which is the latest thing I'm learning.
+- 👀 I’m starting TypeScript from 0.
 
 <!---
 peternroth/peternroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
